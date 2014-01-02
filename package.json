@@ -1,0 +1,22 @@
+{
+  "name": "timeswired",
+  "version": "0.1.0",
+  "description": "Maintains an updated cache of nytimes.com content via newswire",
+  "keywords": [
+    "nytimes",
+    "articles"
+  ],
+  "author": {
+    "name": "David Erwin",
+    "email": "davidjerwin@gmail.com"
+  },
+  "main": "./timeswire.js",
+  "devDependencies": {
+    "request": ">=2.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:daviderwin/timeswired.git"
+  },
+  "_id": "timeswired@2.12.0"
+}
